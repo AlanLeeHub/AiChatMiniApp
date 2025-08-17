@@ -79,3 +79,4 @@ Clear all cache in WeChat Developer Tools and begin debugging.
 - Verify all Python dependencies are installed correctly
 - Ensure the bridge server is running on the correct port
 - Check that the ngrok tunnel is active and accessible
+# Ollama WeChat Mini Program Setup Guide
