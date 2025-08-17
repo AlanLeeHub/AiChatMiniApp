@@ -1,0 +1,5 @@
+<view class="container">
+  <input bindinput="onInput" placeholder="Enter AI prompt" />
+  <button bindtap="sendToAI">Send</button>
+  <text>{{response}}</text>
+</view>
